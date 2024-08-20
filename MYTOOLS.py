@@ -6,6 +6,3 @@ def pi_real(n):
 
 def e_real(n):
     return f'2,{str(E_INT)[0:n]}'
-'''
-print(pi_real(5))
-print(e_real(4))'''
